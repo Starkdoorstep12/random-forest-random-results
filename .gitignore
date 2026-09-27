@@ -1,0 +1,17 @@
+# logs
+*.txt
+
+# large data/artifacts - reference in README, don't commit
+work_*/
+*.pkl
+*.tsv
+checkpoint-*/
+*.safetensors
+model.txt
+val_dump.pkl
+entities.pkl
+
+# python
+__pycache__/
+*.pyc
+.venv/

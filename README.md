@@ -83,3 +83,7 @@ python finalize.py --split test --art ../artifacts_run --work ../work_test \
 ```
 
 `NORM` must match whatever the model was trained with (2, throughout this project).
+
+## Model weights
+- Fine-tuned bi-encoder: https://huggingface.co/Starkdoorstep12/entity-resolution-biencoder
+- Fine-tuned cross-encoder: https://huggingface.co/Starkdoorstep12/entity-resolution-crossencoder

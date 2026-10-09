@@ -1,0 +1,11 @@
+torch
+sentence-transformers
+transformers
+lightgbm
+pandas
+numpy
+rapidfuzz
+unidecode
+scikit-learn
+datasets
+accelerate
